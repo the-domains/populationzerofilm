@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[PopulationZeroFilm]]></title>
-        <description><![CDATA[PopulationZeroFilm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Population Zero]]></title>
+        <description><![CDATA[Population Zero]]></description>
+        <link>https://thegrid.ai/populationzerofilm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 05:03:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 05:22:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/populationzerofilm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/728c590b-3298-451f-a691-ca6755b2ea94.jpg">]]></description>
-            <link>undefined000f5fbc-51e6-4f3d-91da-f9177021ec09/index.html</link>
+            <link>https://thegrid.ai/populationzerofilm/000f5fbc-51e6-4f3d-91da-f9177021ec09/index.html</link>
             <guid isPermaLink="false">000f5fbc-51e6-4f3d-91da-f9177021ec09</guid>
-            <pubDate>Wed, 16 Mar 2016 05:03:33 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 05:21:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
