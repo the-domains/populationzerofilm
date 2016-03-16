@@ -2,6 +2,7 @@ name: PopulationZeroFilm
 favicon: null
 layout_spectrum: 0.5323188325855881
 typography_spectrum: 0.7358172605745494
+title: Population Zero
 cta:
   domain: null
   bucket: null
