@@ -1,4 +1,4 @@
-name: PopulationZeroFilm
+name: Population Zero
 favicon: null
 layout_spectrum: 0.66091
 typography_spectrum: 1
@@ -22,8 +22,8 @@ color:
     - '#beb7a5'
     - '#85806d'
     - '#c44234'
-  brandStrength: 0.25
-  lightness: 1
-  saturation: 0.9943016937468201
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
   rhythmicContrast: 0.75
 purpose: []
