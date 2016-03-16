@@ -1,0 +1,28 @@
+name: PopulationZeroFilm
+favicon: null
+layout_spectrum: 0.5323188325855881
+typography_spectrum: 0.7358172605745494
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7885971125215292
+  lightness: 0.47070818743668497
+  saturation: 0.9943016937468201
+  rhythmicContrast: 0.2361237914301455
+purpose: []
